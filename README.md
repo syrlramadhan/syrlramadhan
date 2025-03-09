@@ -21,7 +21,7 @@ I'm a passionate Informatics student at **Universitas Muhammadiyah Makassar** ðŸ
 Feel free to reach out to me or follow my journey:
 
 - **Instagram:** [@syahrul_rmdhnn](https://www.instagram.com/syahrul_rmdhnn/)
-- **GitHub:** [Syahrul Ramadhan](https://github.com/SyahrulRamadhan)
+- **GitHub:** [Syahrul Ramadhan](https://github.com/syrlramadhan)
 
 ---
 
