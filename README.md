@@ -4,7 +4,7 @@
 
 ### About Me 🚀
 
-I'm a passionate Informatics student at **Universitas Muhammadiyah Makassar** 🎓, currently exploring the vast world of technology and coding. I live in **Perumahan Subsidi Fakultas Teknik UNHAS Gowa** and have a deep love for **Badminton** 🏸. In 2023, I joined the **Coconut Computer Club** 🌴, where I collaborate with like-minded individuals to create innovative solutions.
+I'm a passionate Informatics enthusiast who loves exploring the ever-evolving world of technology and coding. I have a strong interest in creating impactful and innovative digital solutions while constantly learning new things. Beyond tech, I enjoy playing Badminton 🏸 as a way to stay active and balanced. Since 2023, I’ve been an active member of Coconut Computer Club 🌴, where I collaborate with creative minds to develop and share knowledge in the field of computing.
 
 ---
 
