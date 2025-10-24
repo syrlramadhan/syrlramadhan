@@ -35,7 +35,7 @@ Since **2023**, Iâ€™ve been actively involved in the **Coconut Computer Club ðŸŒ
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/syahrul-ramadhan-541405314" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
 </p>
