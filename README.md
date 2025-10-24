@@ -27,15 +27,15 @@ Since **2023**, I’ve been actively involved in the **Coconut Computer Club �
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/syahrul_rmdhnn/" target="_blank">
+  <a href="https://www.instagram.com/syahrul_rmdhnn/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
   </a>
   &nbsp;
-  <a href="https://github.com/syrlramadhan" target="_blank">
+  <a href="https://github.com/syrlramadhan" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/syahrul-ramadhan-541405314" target="_blank">
+  <a href="https://www.linkedin.com/in/syahrul-ramadhan-541405314" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
 </p>
