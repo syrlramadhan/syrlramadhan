@@ -19,7 +19,7 @@ Since **2023**, I’ve been actively involved in the **Coconut Computer Club �
 ### 🚀 What I'm Up To
 
 - 🌱 **Currently Learning:** Backend web development (Golang), modern web frameworks, and DevOps fundamentals.  
-- 💼 **Collaborating With:** [Coconut Computer Club](https://coconut.or.id/contact) to create tech-driven projects for students and communities.  
+- 💼 **Collaborating With:** [COCONUT Computer Club](https://coconut.or.id/contact) to create tech-driven projects for students and communities.  
 - 🎯 **Goals:** To become a skilled backend developer and contribute to impactful open-source projects.  
 
 ---
