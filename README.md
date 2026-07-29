@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding animation">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif?raw=true" width="300" alt="Coding animation">
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ Since **2023**, I've been actively involved in the **COCONUT Computer Club 🌴*
 
 </td>
 <td width="35%" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120" alt="Developer">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NnNDlqd2J5Mml1Z2g1a2Ftc2s5d3g2c2NvNXV5aXZnbDl2aWdvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="Developer">
 </td>
 </tr>
 </table>
@@ -40,7 +40,7 @@ Since **2023**, I've been actively involved in the **COCONUT Computer Club 🌴*
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.icons8.com/color/40/000000/golang.png" alt="Golang"/><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="Golang"/><br>
         <b>🌱 Learning</b><br>
         <small>Golang, Web Frameworks, DevOps</small>
       </td>
@@ -87,10 +87,10 @@ Since **2023**, I've been actively involved in the **COCONUT Computer Club 🌴*
 <div align="center">
   <table>
     <tr>
-      <td align="center">🏸</td>
-      <td>On the badminton court, perfecting my smash</td>
-      <td align="center">☁️</td>
-      <td>Dreaming about scalable cloud infrastructure</td>
+      <td align="center" width="10%">🏸</td>
+      <td width="40%">On the badminton court, perfecting my smash</td>
+      <td align="center" width="10%">☁️</td>
+      <td width="40%">Dreaming about scalable cloud infrastructure</td>
     </tr>
     <tr>
       <td align="center">🎧</td>
