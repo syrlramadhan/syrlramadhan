@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Syahrul+Ramadhan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Syahrul+Ramadhan" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" alt="Coding animation">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding animation">
 </p>
 
 <p align="center">
@@ -17,17 +17,17 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%">
 
 I'm a passionate **informatics enthusiast** who loves exploring the ever-evolving world of technology and innovation.  
 My curiosity drives me to build creative, impactful, and efficient digital solutions 💡.  
 
 Outside of coding, I enjoy **playing badminton 🏸**, which keeps me energised and balanced.  
-Since **2023**, I’ve been actively involved in the **COCONUT Computer Club 🌴**, collaborating with talented minds to share and expand knowledge in computing.
+Since **2023**, I've been actively involved in the **COCONUT Computer Club 🌴**, collaborating with talented minds to share and expand knowledge in computing.
 
 </td>
-<td width="40%" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Developer">
+<td width="35%" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120" alt="Developer">
 </td>
 </tr>
 </table>
@@ -39,20 +39,20 @@ Since **2023**, I’ve been actively involved in the **COCONUT Computer Club �
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang"/><br>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/40/000000/golang.png" alt="Golang"/><br>
         <b>🌱 Learning</b><br>
-        Golang, Web Frameworks, DevOps
+        <small>Golang, Web Frameworks, DevOps</small>
       </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/coconut.png" alt="Coconut"/><br>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/40/000000/coconut.png" alt="Coconut"/><br>
         <b>💼 Collaborating</b><br>
-        <a href="https://coconut.or.id/contact">COCONUT Computer Club</a>
+        <small><a href="https://coconut.or.id/contact">COCONUT Computer Club</a></small>
       </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/target.png" alt="Target"/><br>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/color/40/000000/target.png" alt="Target"/><br>
         <b>🎯 Goal</b><br>
-        Backend Developer & Open Source
+        <small>Backend Developer & Open Source</small>
       </td>
     </tr>
   </table>
@@ -87,15 +87,15 @@ Since **2023**, I’ve been actively involved in the **COCONUT Computer Club �
 <div align="center">
   <table>
     <tr>
-      <td>🏸</td>
+      <td align="center">🏸</td>
       <td>On the badminton court, perfecting my smash</td>
-      <td>☁️</td>
+      <td align="center">☁️</td>
       <td>Dreaming about scalable cloud infrastructure</td>
     </tr>
     <tr>
-      <td>🎧</td>
+      <td align="center">🎧</td>
       <td>Listening to lo-fi beats while debugging</td>
-      <td>🚀</td>
+      <td align="center">🚀</td>
       <td>Always learning something new</td>
     </tr>
   </table>
@@ -106,7 +106,7 @@ Since **2023**, I’ve been actively involved in the **COCONUT Computer Club �
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syrlramadhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syrlramadhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syrlramadhan&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
