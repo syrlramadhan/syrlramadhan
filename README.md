@@ -1,12 +1,23 @@
-<h1 align="center">Hi there! 👋 I'm <span style="color:#00BFFF;">Syahrul Ramadhan</span></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B+I'm+Syahrul+Ramadhan" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding animation">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" alt="Coding animation">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syrlramadhan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/syrlramadhan?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
 
 I'm a passionate **informatics enthusiast** who loves exploring the ever-evolving world of technology and innovation.  
 My curiosity drives me to build creative, impactful, and efficient digital solutions 💡.  
@@ -14,33 +25,58 @@ My curiosity drives me to build creative, impactful, and efficient digital solut
 Outside of coding, I enjoy **playing badminton 🏸**, which keeps me energised and balanced.  
 Since **2023**, I’ve been actively involved in the **COCONUT Computer Club 🌴**, collaborating with talented minds to share and expand knowledge in computing.
 
+</td>
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Developer">
+</td>
+</tr>
+</table>
+
 ---
 
 ### 🚀 What I'm Up To
 
-- 🌱 **Currently learning:** Backend web development with Golang, modern web frameworks, and DevOps fundamentals.  
-- 💼 **Collaborating with:** [COCONUT Computer Club](https://coconut.or.id/contact) to create tech-driven projects for students and communities.  
-- 🎯 **Goal:** To become a skilled backend developer and contribute to impactful open-source projects.  
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang"/><br>
+        <b>🌱 Learning</b><br>
+        Golang, Web Frameworks, DevOps
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/coconut.png" alt="Coconut"/><br>
+        <b>💼 Collaborating</b><br>
+        <a href="https://coconut.or.id/contact">COCONUT Computer Club</a>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/48/000000/target.png" alt="Target"/><br>
+        <b>🎯 Goal</b><br>
+        Backend Developer & Open Source
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/syahrul_rmdhnn/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
+  <a href="https://www.instagram.com/syahrul_rmdhnn/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;
-  <a href="https://github.com/syrlramadhan" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/>
+  <a href="https://github.com/syrlramadhan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/syahrul-ramadhan-541405314" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/syahrul-ramadhan-541405314" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://syahrulramadhan.site" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio Website"/>
+  <a href="https://syahrulramadhan.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -48,15 +84,54 @@ Since **2023**, I’ve been actively involved in the **COCONUT Computer Club �
 
 ### ⚡ Fun Facts
 
-When I'm not coding, you’ll likely find me:  
-- 🏸 On the badminton court, perfecting my smash  
-- ☁️ Dreaming about scalable cloud infrastructure  
-- 🎧 Listening to lo-fi beats while debugging  
+<div align="center">
+  <table>
+    <tr>
+      <td>🏸</td>
+      <td>On the badminton court, perfecting my smash</td>
+      <td>☁️</td>
+      <td>Dreaming about scalable cloud infrastructure</td>
+    </tr>
+    <tr>
+      <td>🎧</td>
+      <td>Listening to lo-fi beats while debugging</td>
+      <td>🚀</td>
+      <td>Always learning something new</td>
+    </tr>
+  </table>
+</div>
 
-Let’s **connect and build something awesome together!** ✨
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syrlramadhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syrlramadhan&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syrlramadhan&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=syrlramadhan&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
 
 ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider line">
+</p>
+
+<p align="center">
+  <b>✨ Let's connect and build something awesome together! ✨</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" width="100%" alt="Footer">
 </p>
