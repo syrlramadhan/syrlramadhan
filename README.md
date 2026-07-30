@@ -102,7 +102,7 @@ Goal     : Backend Dev & Open Source Contributor
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=syrlramadhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syrlramadhan&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=syrlramadhan&theme=tokyonight&hide_border=true" width="49%"/>
 
 <br/>
 
@@ -123,12 +123,20 @@ Goal     : Backend Dev & Open Source Contributor
 ## ⚡ Fun Facts
 
 <div align="center">
-
-| | | |
-|:---:|:---|:---:|:---|
-| 🏸 | Perfecting my smash on the badminton court | ☁️ | Dreaming about scalable cloud infra |
-| 🎧 | Lo-fi beats + debugging = perfect combo | 🚀 | Always learning something new every day |
-
+<table>
+<tr>
+<td align="center">🏸</td>
+<td>Perfecting my smash on the badminton court</td>
+<td align="center">☁️</td>
+<td>Dreaming about scalable cloud infra</td>
+</tr>
+<tr>
+<td align="center">🎧</td>
+<td>Lo-fi beats + debugging = perfect combo</td>
+<td align="center">🚀</td>
+<td>Always learning something new every day</td>
+</tr>
+</table>
 </div>
 
 ---
